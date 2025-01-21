@@ -2,8 +2,9 @@
 
 <HTML>
 <HEAD>
+<meta charset="Shift-JIS">
 <META name="GENERATOR" content="IBM HomePage Builder 2001 V5.0.2 for Windows">
-<TITLE>フレームページ</TITLE>
+<TITLE>ataiのホームページ</TITLE>
 </HEAD>
 <FRAMESET cols="165,*" frameborder="NO" border="0">
   <FRAME src="side.htm" name="side" scrolling="NO">

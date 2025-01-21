@@ -2,6 +2,7 @@
 
 <HTML>
 <HEAD>
+<meta charset="Shift-JIS">
 <META name="GENERATOR" content="IBM HomePage Builder 2001 V5.0.2 for Windows">
 <TITLE>メニュー</TITLE>
 </HEAD>
@@ -33,11 +34,11 @@
       <TD colspan="2" height="2">;</TD>
     </TR>
     <TR bgcolor="#FFFFFF">
-      <TD bgcolor="#C6CEDE" align="right" width="149" height="17"><B><A href="sub2.htm" target="contents"><FONT color="#000000">ルイズコピペ</FONT></A></B></TD>
+      <TD bgcolor="#C6CEDE" align="right" width="149" height="17"><B><A href="sub2.htm" target="contents"><FONT color="#000000">相互リンク</FONT></A></B></TD>
       <TD width="1" height="17"><IMG src="frm02_f1.gif" height="20" alt="イメージ" border="0"></TD>
     </TR>
     <TR bgcolor="#FFFFFF">
-      <TD colspan="2" height="10">;</TD>
+      <TD colspan="2" height="17">;</TD>
     </TR>
     <TR bgcolor="#FFFFFF">
       <TD bgcolor="#C6CEDE" align="right" width="149" height="17"><B><A href="sub3.htm" target="contents"><FONT color="#000000">About me</FONT></A></B></TD>

@@ -2,6 +2,7 @@
 
 <HTML>
 <HEAD>
+<meta charset="Shift-JIS">
 <META name="GENERATOR" content="IBM HomePage Builder 2001 V5.0.2 for Windows">
 <TITLE>商品情報</TITLE>
 </HEAD>
@@ -10,13 +11,13 @@
 <TABLE border="0" cellspacing="0" cellpadding="0">
   <TBODY>
     <TR align="center">
-      <TD bgcolor="#3942FF" width="234"><IMG src="tomei.gif" width="1" height="2"></TD>
+      <TD bgcolor="#3942FF" width="266"><IMG src="tomei.gif" width="1" height="2"></TD>
     </TR>
     <TR align="center">
-      <TD height="40" width="234"><FONT size="5"><B>～ルイズたんのコピペ～</B></FONT></TD>
+      <TD height="40" width="266"><FONT size="5"><B>～ルイズたんのコピペ～</B></FONT></TD>
     </TR>
     <TR align="center" bgcolor="#3942FF">
-      <TD width="234"><IMG src="tomei.gif" width="1" height="2"></TD>
+      <TD width="266"><IMG src="tomei.gif" width="1" height="2"></TD>
     </TR>
   </TBODY>
 </TABLE>
